@@ -1,0 +1,16 @@
+body {
+	font-size: 14px;
+	font-family: Poppins, sans-serif;
+	font-weight: 400;
+	background-color: $primary;
+}
+
+._container {
+	max-width: 1200px;
+	margin: 0 auto;
+	padding: 0 15px;
+}
+
+._no-scroll {
+	overflow: hidden;
+}
